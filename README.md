@@ -13,15 +13,3 @@ The game uses the Thompson Sampling algorithm to dynamically select one of three
 Follow the ball: Moves directly towards the ball's position.
 Predictive defense: Adjusts position based on a randomized prediction of the ball's path.
 Random movement: Adds unpredictable movement for defensive diversity.
-Requirements
-Python 3.x
-pygame library
-How to Run
-Install the required library:
-bash
-Kodu kopyala
-pip install pygame
-Run the game:
-bash
-Kodu kopyala
-python hockey_game.py
